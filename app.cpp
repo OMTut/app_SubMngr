@@ -1,4 +1,4 @@
-#include "manager/SubcriptionManager.h"
+#include "manager/SubscriptionManager.cpp"
 #include <iostream>
 using namespace std;
 
